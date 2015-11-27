@@ -1,5 +1,8 @@
 # Reddit-example
 
+This is an example of using Ember.js with Reddit to grab image files.
+
+Check out more information at [ProgramWithErik.Com](http://www.programwitherik.com)
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
